@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.banner-content h1 span,
+.section-title {
+  font-family: "Bebas Neue", cursive;
+}
+.section-title {
+  margin-bottom: 20px;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+section {
+  padding: 50px 0;
+}
+
+#banner {
+  padding-top: 0;
+}
